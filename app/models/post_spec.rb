@@ -1,0 +1,2 @@
+class PostSpec < ApplicationRecord
+end
